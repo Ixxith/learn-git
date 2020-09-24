@@ -1,1 +1,1 @@
-print("Dragons are my favorite animals")
+print("Dinosaurs are my favorite animals")
